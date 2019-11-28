@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RepoAndLiveData</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="movie_image">Movie Image</string>
+    <string name="tv_show_image">Tv Show Image</string>
+    <string name="movie_empty">Empty</string>
+    <string name="tv_show_empty">Tv Show Empty</string>
+    <string name="score">Score</string>
+    <string name="overview">Overview</string>
+    <string name="movie">Movie</string>
+    <string name="tv_show">Tv Show</string>
+    <string name="make_favorite">Make Favorite</string>
+    <string name="favorite">Favorite</string>
+</resources>
